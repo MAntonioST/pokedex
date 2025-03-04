@@ -1,5 +1,8 @@
 # Pokedex
 
+Treinaweb Pokedex is an Angular-based web application that serves as a comprehensive digital encyclopedia for Pokémon fans. This project aims to provide an interactive and user-friendly interface to explore and learn about various Pokémon species, their characteristics, and evolution chains.
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
 ## Development server
